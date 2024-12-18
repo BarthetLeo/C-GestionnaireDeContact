@@ -1,0 +1,14 @@
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\GestionnaireDeContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\GestionnaireDeContact.AssemblyInfoInputs.cache
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\GestionnaireDeContact.AssemblyInfo.cs
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\GestionnaireDeContact.csproj.CoreCompileInputs.cache
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\bin\Debug\net8.0\GestionnaireDeContact.exe
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\bin\Debug\net8.0\GestionnaireDeContact.deps.json
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\bin\Debug\net8.0\GestionnaireDeContact.runtimeconfig.json
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\bin\Debug\net8.0\GestionnaireDeContact.dll
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\bin\Debug\net8.0\GestionnaireDeContact.pdb
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\GestionnaireDeContact.dll
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\refint\GestionnaireDeContact.dll
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\GestionnaireDeContact.pdb
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\GestionnaireDeContact.genruntimeconfig.cache
+C:\Users\bliif\Documents\Code\ProjetsPerso\GestionnaireDeContact\GestionnaireDeContact\obj\Debug\net8.0\ref\GestionnaireDeContact.dll
